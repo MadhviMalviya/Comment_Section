@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+<!-- task:This is an assignment to evaluate your technical abilities to fit in Ajjas.
+
+Your challenge is to build an interactive comment section for a website using React. Each comment will have a score that is determined by the amount of Upvotes and Downvotes it receives. The user must be able to add new comments and reply to existing comments.
+
+Note that all comments must be hierarchical. This means that each reply is treated as a separate comment and it can have its own set of replies.
+
+The user should be able to:
+View all comments and replies in a pleasant design.
+Add new comments as well as reply to existing comments.
+Upvote or Downvote all comments.
+Sort all comments by time (Oldest First / Newest First), or by their scores (Most Score / Least Score).
+Bonus: Filter the comment section by a selected user.
+You are free to use any Design / Component Libraries (Bootstrap, Chakra UI, etc.), and IDE / Text Editor to help you complete this challenge. You are encouraged to ask as many questions as you want(if any) during this challenge.
+
+You will be evaluated on the:
+The functionality of the solution and the approach taken to solve it.
+Time taken to complete the assignment.
+Design and responsiveness of the result.
+Structure, modularity, and readability of the code.
+
+Time limit: 2 hours. -->
